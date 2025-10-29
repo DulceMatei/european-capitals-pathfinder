@@ -1,0 +1,563 @@
+{
+    "Countries": {
+        "Albania": {
+            "Capital": "Tirana",
+            "Coordinates": {
+                "Lat": 41.3275,
+                "Lon": 19.8189
+            },
+            "Neighbors": {
+                "Montenegro": 132,
+                "Kosovo": 186,
+                "North Macedonia": 155,
+                "Greece": 500
+            }
+        },
+        "Andorra": {
+            "Capital": "Andorra la Vella",
+            "Coordinates": {
+                "Lat": 42.5078,
+                "Lon": 1.5211
+            },
+            "Neighbors": {
+                "Spain": 493,
+                "France": 709
+            }
+        },
+        "Armenia": {
+            "Capital": "Yerevan",
+            "Coordinates": {
+                "Lat": 40.1792,
+                "Lon": 44.4991
+            },
+            "Neighbors": {
+                "Georgia": 170,
+                "Turkey": 992
+            }
+        },
+        "Austria": {
+            "Capital": "Vienna",
+            "Coordinates": {
+                "Lat": 48.2082,
+                "Lon": 16.3738
+            },
+            "Neighbors": {
+                "Germany": 524,
+                "Czech Republic": 253,
+                "Slovakia": 55,
+                "Hungary": 214,
+                "Slovenia": 278,
+                "Italy": 765,
+                "Switzerland": 684
+            }
+        },
+        "Belarus": {
+            "Capital": "Minsk",
+            "Coordinates": {
+                "Lat": 53.9006,
+                "Lon": 27.559
+            },
+            "Neighbors": {
+                "Lithuania": 172,
+                "Latvia": 403,
+                "Poland": 476,
+                "Ukraine": 433
+            }
+        },
+        "Belgium": {
+            "Capital": "Brussels",
+            "Coordinates": {
+                "Lat": 50.8503,
+                "Lon": 4.3517
+            },
+            "Neighbors": {
+                "France": 264,
+                "Netherlands": 173,
+                "Germany": 651,
+                "Luxembourg": 187
+            }
+        },
+        "Bosnia and Herzegovina": {
+            "Capital": "Sarajevo",
+            "Coordinates": {
+                "Lat": 43.8563,
+                "Lon": 18.4131
+            },
+            "Neighbors": {
+                "Croatia": 290,
+                "Montenegro": 172,
+                "Serbia": 194
+            }
+        },
+        "Bulgaria": {
+            "Capital": "Sofia",
+            "Coordinates": {
+                "Lat": 42.6977,
+                "Lon": 23.3242
+            },
+            "Neighbors": {
+                "Romania": 297,
+                "Serbia": 329,
+                "North Macedonia": 174,
+                "Greece": 526,
+                "Turkey": 853
+            }
+        },
+        "Croatia": {
+            "Capital": "Zagreb",
+            "Coordinates": {
+                "Lat": 45.815,
+                "Lon": 15.9819
+            },
+            "Neighbors": {
+                "Slovenia": 117,
+                "Hungary": 299,
+                "Serbia": 367,
+                "Bosnia and Herzegovina": 397
+            }
+        },
+        "Cyprus": {
+            "Capital": "Nicosia",
+            "Coordinates": {
+                "Lat": 35.1856,
+                "Lon": 33.3823
+            },
+            "Neighbors": {
+                "Turkey": 528
+            }
+        },
+        "Czech Republic": {
+            "Capital": "Prague",
+            "Coordinates": {
+                "Lat": 50.0755,
+                "Lon": 14.4378
+            },
+            "Neighbors": {
+                "Germany": 280,
+                "Poland": 517,
+                "Slovakia": 291,
+                "Austria": 253
+            }
+        },
+        "Denmark": {
+            "Capital": "Copenhagen",
+            "Coordinates": {
+                "Lat": 55.6761,
+                "Lon": 12.5683
+            },
+            "Neighbors": {
+                "Germany": 356,
+                "Sweden": 521
+            }
+        },
+        "Estonia": {
+            "Capital": "Tallinn",
+            "Coordinates": {
+                "Lat": 59.437,
+                "Lon": 24.7536
+            },
+            "Neighbors": {
+                "Latvia": 280
+            }
+        },
+        "Finland": {
+            "Capital": "Helsinki",
+            "Coordinates": {
+                "Lat": 60.1695,
+                "Lon": 24.9354
+            },
+            "Neighbors": {
+                "Sweden": 396,
+                "Norway": 787
+            }
+        },
+        "France": {
+            "Capital": "Paris",
+            "Coordinates": {
+                "Lat": 48.8566,
+                "Lon": 2.3522
+            },
+            "Neighbors": {
+                "Belgium": 264,
+                "Luxembourg": 287,
+                "Germany": 878,
+                "Switzerland": 435,
+                "Italy": 1107,
+                "Spain": 1053,
+                "Andorra": 709,
+                "United Kingdom": 344
+            }
+        },
+        "Georgia": {
+            "Capital": "Tbilisi",
+            "Coordinates": {
+                "Lat": 41.6938,
+                "Lon": 44.8015
+            },
+            "Neighbors": {
+                "Armenia": 170,
+                "Turkey": 1026
+            }
+        },
+        "Germany": {
+            "Capital": "Berlin",
+            "Coordinates": {
+                "Lat": 52.52,
+                "Lon": 13.405
+            },
+            "Neighbors": {
+                "Poland": 521,
+                "Czech Republic": 280,
+                "Austria": 524,
+                "Switzerland": 753,
+                "France": 878,
+                "Belgium": 651,
+                "Netherlands": 577,
+                "Denmark": 356
+            }
+        },
+        "Switzerland": {
+            "Capital": "Bern",
+            "Coordinates": {
+                "Lat": 46.9481,
+                "Lon": 7.4474
+            },
+            "Neighbors": {
+                "France": 435,
+                "Germany": 753,
+                "Italy": 853,
+                "Austria": 684,
+                "Liechtenstein": 159
+            }
+        },
+        "United Kingdom": {
+            "Capital": "London",
+            "Coordinates": {
+                "Lat": 51.5074,
+                "Lon": -0.1278
+            },
+            "Neighbors": {
+                "Ireland": 462,
+                "France": 344,
+                "Iceland": 1890
+            }
+        },
+        "Greece": {
+            "Capital": "Athens",
+            "Coordinates": {
+                "Lat": 37.9838,
+                "Lon": 23.7275
+            },
+            "Neighbors": {
+                "Albania": 500,
+                "North Macedonia": 487,
+                "Bulgaria": 526,
+                "Turkey": 819
+            }
+        },
+        "Hungary": {
+            "Capital": "Budapest",
+            "Coordinates": {
+                "Lat": 47.4979,
+                "Lon": 19.0402
+            },
+            "Neighbors": {
+                "Romania": 643,
+                "Slovakia": 161,
+                "Austria": 214,
+                "Croatia": 299,
+                "Serbia": 317,
+                "Ukraine": 899
+            }
+        },
+        "Ireland": {
+            "Capital": "Dublin",
+            "Coordinates": {
+                "Lat": 53.3498,
+                "Lon": -6.2603
+            },
+            "Neighbors": {
+                "United Kingdom": 462
+            }
+        },
+        "Iceland": {
+            "Capital": "Reykjavik",
+            "Coordinates": {
+                "Lat": 64.1355,
+                "Lon": -21.8954
+            },
+            "Neighbors": {
+                "United Kingdom": 1890
+            }
+        },
+        "Italy": {
+            "Capital": "Rome",
+            "Coordinates": {
+                "Lat": 41.9028,
+                "Lon": 12.4964
+            },
+            "Neighbors": {
+                "France": 1107,
+                "Switzerland": 691,
+                "Austria": 765,
+                "Slovenia": 489
+            }
+        },
+        "Liechtenstein": {
+            "Capital": "Vaduz",
+            "Coordinates": {
+                "Lat": 47.1416,
+                "Lon": 9.5215
+            },
+            "Neighbors": {
+                "Switzerland": 159,
+                "Austria": 526
+            }
+        },
+        "Lithuania": {
+            "Capital": "Vilnius",
+            "Coordinates": {
+                "Lat": 54.6872,
+                "Lon": 25.2797
+            },
+            "Neighbors": {
+                "Latvia": 262,
+                "Belarus": 172,
+                "Poland": 393
+            }
+        },
+        "Luxembourg": {
+            "Capital": "Luxembourg City",
+            "Coordinates": {
+                "Lat": 49.6117,
+                "Lon": 6.1319
+            },
+            "Neighbors": {
+                "Belgium": 187,
+                "France": 287,
+                "Germany": 603
+            }
+        },
+        "Latvia": {
+            "Capital": "Riga",
+            "Coordinates": {
+                "Lat": 56.9496,
+                "Lon": 24.1052
+            },
+            "Neighbors": {
+                "Estonia": 280,
+                "Lithuania": 262,
+                "Belarus": 403
+            }
+        },
+        "Moldova": {
+            "Capital": "Chișinău",
+            "Coordinates": {
+                "Lat": 47.0105,
+                "Lon": 28.8638
+            },
+            "Neighbors": {
+                "Romania": 357,
+                "Ukraine": 398
+            }
+        },
+        "North Macedonia": {
+            "Capital": "Skopje",
+            "Coordinates": {
+                "Lat": 41.9981,
+                "Lon": 21.4254
+            },
+            "Neighbors": {
+                "Albania": 153,
+                "Greece": 487,
+                "Bulgaria": 174,
+                "Serbia": 323,
+                "Kosovo": 77
+            }
+        },
+        "Montenegro": {
+            "Capital": "Podgorica",
+            "Coordinates": {
+                "Lat": 42.4304,
+                "Lon": 19.2594
+            },
+            "Neighbors": {
+                "Croatia": 458,
+                "Bosnia and Herzegovina": 172,
+                "Serbia": 281,
+                "Albania": 132
+            }
+        },
+        "Norway": {
+            "Capital": "Oslo",
+            "Coordinates": {
+                "Lat": 59.9139,
+                "Lon": 10.7522
+            },
+            "Neighbors": {
+                "Sweden": 416,
+                "Finland": 787
+            }
+        },
+        "Poland": {
+            "Capital": "Warsaw",
+            "Coordinates": {
+                "Lat": 52.2298,
+                "Lon": 21.0118
+            },
+            "Neighbors": {
+                "Germany": 521,
+                "Czech Republic": 521,
+                "Slovakia": 535,
+                "Ukraine": 685,
+                "Belarus": 472,
+                "Lithuania": 444
+            }
+        },
+        "Portugal": {
+            "Capital": "Lisbon",
+            "Coordinates": {
+                "Lat": 38.7169,
+                "Lon": -9.1395
+            },
+            "Neighbors": {
+                "Spain": 502
+            }
+        },
+        "Romania": {
+            "Capital": "Bucharest",
+            "Coordinates": {
+                "Lat": 44.4268,
+                "Lon": 26.1025
+            },
+            "Neighbors": {
+                "Hungary": 643,
+                "Bulgaria": 296,
+                "Ukraine": 747,
+                "Serbia": 449,
+                "Moldova": 357
+            }
+        },
+        "Slovakia": {
+            "Capital": "Bratislava",
+            "Coordinates": {
+                "Lat": 48.1482,
+                "Lon": 17.1067
+            },
+            "Neighbors": {
+                "Austria": 55,
+                "Czech Republic": 291,
+                "Poland": 532,
+                "Ukraine": 1005,
+                "Hungary": 161
+            }
+        },
+        "Slovenia": {
+            "Capital": "Ljubljana",
+            "Coordinates": {
+                "Lat": 46.0511,
+                "Lon": 14.5051
+            },
+            "Neighbors": {
+                "Austria": 278,
+                "Italy": 489,
+                "Hungary": 381,
+                "Croatia": 117
+            }
+        },
+        "Serbia": {
+            "Capital": "Belgrade",
+            "Coordinates": {
+                "Lat": 44.8176,
+                "Lon": 20.4633
+            },
+            "Neighbors": {
+                "Hungary": 317,
+                "Romania": 449,
+                "Bulgaria": 329,
+                "North Macedonia": 323,
+                "Croatia": 367,
+                "Bosnia and Herzegovina": 194,
+                "Montenegro": 281,
+                "Kosovo": 246
+            }
+        },
+        "Sweden": {
+            "Capital": "Stockholm",
+            "Coordinates": {
+                "Lat": 59.3293,
+                "Lon": 18.0686
+            },
+            "Neighbors": {
+                "Norway": 416,
+                "Finland": 396,
+                "Denmark": 521
+            }
+        },
+        "Ukraine": {
+            "Capital": "Kyiv",
+            "Coordinates": {
+                "Lat": 50.4501,
+                "Lon": 30.5034
+            },
+            "Neighbors": {
+                "Poland": 689,
+                "Slovakia": 1005,
+                "Hungary": 899,
+                "Romania": 747,
+                "Moldova": 398,
+                "Belarus": 433
+            }
+        },
+        "Kosovo": {
+            "Capital": "Pristina",
+            "Coordinates": {
+                "Lat": 42.6722,
+                "Lon": 21.2285
+            },
+            "Neighbors": {
+                "Serbia": 246,
+                "Albania": 186,
+                "North Macedonia": 77,
+                "Montenegro": 158
+            }
+        },
+        "Netherlands": {
+            "Capital": "Amsterdam",
+            "Coordinates": {
+                "Lat": 52.3676,
+                "Lon": 4.9041
+            },
+            "Neighbors": {
+                "Belgium": 173,
+                "Germany": 577
+            }
+        },
+        "Spain": {
+            "Capital": "Madrid",
+            "Coordinates": {
+                "Lat": 40.4168,
+                "Lon": -3.7038
+            },
+            "Neighbors": {
+                "Portugal": 502,
+                "France": 1053,
+                "Andorra": 493
+            }
+        },
+                "Turkey": {
+                    "Capital": "Ankara",
+                    "Coordinates": {
+                        "Lat": 39.9208,
+                        "Lon": 32.8541
+                    },
+                    "Neighbors": {
+                        "Greece": 819,
+                        "Bulgaria": 853,
+                        "Georgia": 1026,
+                        "Armenia": 992,
+                        "Cyprus": 530
+                    }
+                }
+            }
+        }

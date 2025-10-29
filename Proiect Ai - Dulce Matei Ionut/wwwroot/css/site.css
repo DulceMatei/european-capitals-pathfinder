@@ -1,0 +1,80 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #01171b;
+    color: white;
+}
+
+svg path {
+    fill: #00394f;
+    stroke: #eee;
+    stroke-width: .25;
+}
+
+svg path:hover {
+    fill: #006284;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+#europeMap{
+    height: 100%;
+    width: 100%;
+}
+
+.country-selected {
+    fill: #ff0000; /* Culoare pentru țara selectată */
+}
+
+#selectedCountryDisplay {
+    color: white;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+.map-path {
+    fill: #00ff00 !important; /* Verde pentru traseu */
+}
+
+.card {
+    background-color: #022b36;
+    color: white;
+    border: 1px solid #034c5a;
+}
+
+.form-select, .form-control {
+    background-color: #034c5a;
+    color: white;
+    border: 1px solid #056571;
+}
+
+.btn-primary {
+    background-color: #056571;
+    border-color: #067e8e;
+}
+
+.btn-secondary {
+    background-color: #034c5a;
+    border-color: #056571;
+}

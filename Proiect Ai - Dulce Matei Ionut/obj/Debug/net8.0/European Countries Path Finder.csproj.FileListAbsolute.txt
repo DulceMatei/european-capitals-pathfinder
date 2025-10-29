@@ -1,0 +1,33 @@
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.Development.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.staticwebassets.runtime.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.staticwebassets.endpoints.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.exe
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.deps.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.runtimeconfig.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\European Countries Path Finder.pdb
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.AssemblyInfoInputs.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.AssemblyInfo.cs
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.csproj.CoreCompileInputs.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.MvcApplicationPartsAssemblyInfo.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.RazorAssemblyInfo.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.RazorAssemblyInfo.cs
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\bundle\European Countries Path Finder.styles.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\projectbundle\European Countries Path Finder.bundle.scp.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\refint\European Countries Path Finder.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.pdb
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\European Countries Path Finder.genruntimeconfig.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\ref\European Countries Path Finder.dll

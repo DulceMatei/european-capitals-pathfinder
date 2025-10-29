@@ -1,0 +1,67 @@
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.Development.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.staticwebassets.runtime.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.staticwebassets.endpoints.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.exe
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.deps.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.runtimeconfig.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.dll
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.pdb
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.GeneratedMSBuildEditorConfig.editorconfig
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.AssemblyInfoInputs.cache
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.AssemblyInfo.cs
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.csproj.CoreCompileInputs.cache
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.MvcApplicationPartsAssemblyInfo.cache
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.RazorAssemblyInfo.cache
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.RazorAssemblyInfo.cs
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\bundle\Proiect Ai - Dulce Matei Ionut.styles.css
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\projectbundle\Proiect Ai - Dulce Matei Ionut.bundle.scp.css
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.development.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets\msbuild.Proiect Ai - Dulce Matei Ionut.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets\msbuild.Proiect Ai - Dulce Matei Ionut.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets\msbuild.build.Proiect Ai - Dulce Matei Ionut.props
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proiect Ai - Dulce Matei Ionut.props
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proiect Ai - Dulce Matei Ionut.props
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.pack.json
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.dll
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\refint\Proiect Ai - Dulce Matei Ionut.dll
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.pdb
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.genruntimeconfig.cache
+D:\proiect tap\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\ref\Proiect Ai - Dulce Matei Ionut.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.Development.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\appsettings.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.staticwebassets.runtime.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.staticwebassets.endpoints.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.exe
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.deps.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.runtimeconfig.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\bin\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.pdb
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.AssemblyInfoInputs.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.AssemblyInfo.cs
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.csproj.CoreCompileInputs.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.MvcApplicationPartsAssemblyInfo.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.RazorAssemblyInfo.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.RazorAssemblyInfo.cs
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\bundle\Proiect Ai - Dulce Matei Ionut.styles.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\scopedcss\projectbundle\Proiect Ai - Dulce Matei Ionut.bundle.scp.css
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\refint\Proiect Ai - Dulce Matei Ionut.dll
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.pdb
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\Proiect Ai - Dulce Matei Ionut.genruntimeconfig.cache
+D:\Proiecte\Proiect Ai - Dulce Matei Ionut\Proiect Ai - Dulce Matei Ionut\obj\Debug\net8.0\ref\Proiect Ai - Dulce Matei Ionut.dll
