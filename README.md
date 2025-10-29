@@ -44,7 +44,7 @@ Algorithm Performance:
 Execution Time: 3.96 ms  
 Nodes Visited: 19  
 
-![A* Algorithm](gif/A Search.gif)
+![A* Algorithm](gif/ASearch.gif)
 
 ## ✅ Conclusion
 This project demonstrates how different pathfinding algorithms, BFS and A*, perform when finding routes between European capitals. It highlights differences in path efficiency, number of nodes explored, and execution time, providing a clear visual and quantitative comparison. The application can be used for educational purposes or as a base for further route optimization projects.
