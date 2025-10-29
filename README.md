@@ -26,23 +26,23 @@ This application allows the user to:
 
 **BFS Example:**  
 Path Details:  
-Romania (Bucharest) → Hungary (Budapest) → Austria (Vienna) → Germany (Berlin) → France (Paris) → Spain (Madrid) → Portugal (Lisbon)  
+Sweden (Stockholm) → Denmark (Copenhagen) → Germany (Berlin) → Poland (Warsaw) → Ukraine (Kyiv) → Romania (Bucharest) → Bulgaria (Sofia) → Turkey (Ankara)  
 
-Total Distance: 3814 km  
+Total Distance: 3979 km  
 Algorithm Performance:  
-Execution Time: 0.37 ms  
-Nodes Visited: 44  
+Execution Time: 0.24 ms  
+Nodes Visited: 41  
 
 ![BFS Algorithm](gif/BFS.gif)
 
 **A* Example:**  
 Path Details:  
-Romania (Bucharest) → Hungary (Budapest) → Austria (Vienna) → Switzerland (Bern) → France (Paris) → Spain (Madrid) → Portugal (Lisbon)  
+Sweden (Stockholm) → Denmark (Copenhagen) → Germany (Berlin) → Czech Republic (Prague) → Slovakia (Bratislava) → Hungary (Budapest) → Serbia (Belgrade) → Bulgaria (Sofia) → Turkey (Ankara)  
 
-Total Distance: 3531 km  
+Total Distance: 3108 km  
 Algorithm Performance:  
-Execution Time: 3.96 ms  
-Nodes Visited: 19  
+Execution Time: 1.84 ms  
+Nodes Visited: 12  
 
 ![A* Algorithm](gif/A_Search.gif)
 
